@@ -1,0 +1,19 @@
+/* stillerin ayarlanması */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #000; /* Yedek arka plan */
+}
+/* canvasın stili */
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+/* animasyonun ortalanması ve tüm ekranı kaplaması gibi temel özellikler */
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
