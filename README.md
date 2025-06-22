@@ -3,8 +3,7 @@
 This is an interactive animation project built with [p5.js](https://p5js.org/), featuring a hot air balloon floating through various themes, ambient sounds, and engaging user interactions.
 
 🌐 **Live Demo (GitHub Pages):**  
-[https://kullaniciadi.github.io/proje-adi/](https://kullaniciadi.github.io/proje-adi/)  
-*(Replace with your actual GitHub username and repository name)*
+
 
 ---
 
