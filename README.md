@@ -25,20 +25,22 @@ This is an interactive animation project built with [p5.js](https://p5js.org/), 
 
 ## 📁 Project Structure
 
-```
-index.html              # Main HTML entry
-style.css               # Styling
-balon.js                # Balloon logic
-kus.js                  # Bird logic
-bulut.js                # Cloud logic
-sayac.js                # Timer logic
-arkaplanlar.js          # Theme logic
-sketch.js               # p5.js main script
-sesler/                 # Audio files (MP3)
-gorseller/              # Icons and visuals
-p5.min.js               # p5.js library
-p5.sound.min.js         # p5.sound.js for audio
-```
+⚠️ **Note:** File and folder names are in **Turkish**. Their English meanings are provided below for clarity.
+
+| File/Folder          | English Meaning      | Description                              |
+|----------------------|----------------------|------------------------------------------|
+| `balon.js`           | balloon              | Handles the hot air balloon logic        |
+| `kus.js`             | bird                 | Controls flying bird animation           |
+| `bulut.js`           | cloud                | Manages cloud movements                  |
+| `sayac.js`           | timer                | Tracks and displays elapsed time         |
+| `arkaplanlar.js`     | backgrounds          | Switches between different themes        |
+| `sesler/`            | sounds               | Folder for theme sound files (MP3)       |
+| `gorseller/`         | visuals / images     | Folder for icons, UI assets, etc.        |
+| `index.html`         | —                    | Main HTML file                           |
+| `style.css`          | —                    | Stylesheet                               |
+| `sketch.js`          | —                    | Main p5.js logic (`setup`, `draw`, etc.) |
+| `p5.min.js`          | —                    | p5.js library                            |
+| `p5.sound.min.js`    | —                    | p5.js sound library                      |
 
 ---
 
@@ -65,7 +67,8 @@ Visit: [https://kullaniciadi.github.io/proje-adi/](https://kullaniciadi.github.i
 ## ⚠ Notes
 
 - Sounds may take a few seconds to load due to file size
-- Some browsers require user interaction to start audio (see `mousePressed()` usage)
+- Most browsers require user interaction to start audio (see `mousePressed()` usage)
+- File names in this project are in Turkish to reflect the developer’s native language. English equivalents are listed above.
 
 ---
 
