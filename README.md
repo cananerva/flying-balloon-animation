@@ -3,6 +3,7 @@
 This is an interactive animation project built with [p5.js](https://p5js.org/), featuring a hot air balloon floating through various themes, ambient sounds, and engaging user interactions.
 
 🌐 **Live Demo (GitHub Pages):**  
+[https://cananerva.github.io/flying-balloon-animation/](https://cananerva.github.io/flying-balloon-animation/)
 
 
 ---
