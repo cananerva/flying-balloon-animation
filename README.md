@@ -73,7 +73,7 @@ Visit: [https://kullaniciadi.github.io/proje-adi/](https://kullaniciadi.github.i
 
 ## 👤 Author
 
-**Canan Erva Aydın** – 030721047  
+**Canan Erva Aydın**  
 **Project Date:** June 2025
 
 ---
